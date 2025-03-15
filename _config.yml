@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kit's codes
+title: "Kit's codes"
 author: Léna Gaubert
 description: >- # this means to ignore newlines until "baseurl:"
   Codes, and notess and more.
