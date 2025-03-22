@@ -20,8 +20,7 @@
 
 title: kit's codes
 author: Léna Gaubert
-description: >- # this means to ignore newlines until "baseurl:"
-  Codes, and notess and more.
+description: Codes, and notes and more.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://kittog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
