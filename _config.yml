@@ -21,7 +21,7 @@
 title: kit's codes
 author: Léna Gaubert
 description: Codes, and notes and more.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/kittog.github.io" # the subpath of your site, e.g. /blog
 url: "https://kittog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
 timezone: UTC
