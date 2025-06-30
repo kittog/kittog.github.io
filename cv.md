@@ -12,6 +12,10 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 
 ## Experience
 
+### Data Science
+- **AI Data Scientist** -- [Arlequin](https://arlq.ai) -- *April 2025 - now*
+	- part of the R&D team ☆ﾐ(o*･ω･)ﾉ
+
 ### Mentoring and coaching
 - **AI use-case coach** -- [Centrale Supélec](https://www.centralesupelec.fr/) -- *February - April 2025*
 	- coaching students on Agile methodologies, NLP (multimodal), helping them develop MVPs for Centrale Supélec over a 7-week-sprint, at the [Paris Digital Lab](https://paris-digital-lab.com/).
@@ -20,7 +24,7 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 	- mentoring professionals on no-code Generative AI tools and prompt engineering, as well as AI app development with LangChain.
 	- delivering both collective and individual mentoring sessions.
 
-### Lab and industry internships
+### Internships (lab & industry)
 - **Head of project in NLP & AI** -- [INEX](https://www.inex.fr/) -- *April - September 2024*
 	- In charge of the development of a *domain-specific RAG chatbot* (legal & AEC).
 	- Data collection, preparation, RAG implementation ("from scratch"), prompt engineering with Mistral-7x8b-Instruct, LLM inference optimisation (quantization, frameworks like llama-cpp...). 
@@ -39,6 +43,7 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 	- computational semantics, information retrieval, named-entity recognition
 	- machine learning (SVM, Random Forest, linear regression, clustering), deep-learning (MLP, CNN, LSTM, RNN), NLG with LLMs.
 	- sociolinguistics, Chomskyan grammar.
+	- **Master's thesis**: *Martin Expert : une architecture RAG pour l'assistance réglementaire dans le BTP*
 - **Bachelor's degree in Physics** -- Université Paris Cité (Campus des Grands Moulins) -- *2017 - 2020*
 	- computational physics
 	- electrokinetics, electromagnetism, waves
