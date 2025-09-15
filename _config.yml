@@ -41,6 +41,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+include:
+  - assets/cours
+  
 exclude:
   - README.md
 
