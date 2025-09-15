@@ -9,7 +9,7 @@ permalink: /teachings/
 > Algorithmique et structuration de données, L3 TAL, INALCO
 
 **Informations générales :** \\
-Horaire : lundi 17h20h \\
+Horaire : lundi 17h-20h \\
 Salle : 7.04 @ PLC (INALCO)
 
 #### Syllabus
