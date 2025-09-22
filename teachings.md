@@ -9,14 +9,17 @@ permalink: /teachings/
 > Algorithmique et structuration de données, L3 TAL, INALCO
 
 **Informations générales :** \\
-Horaire : lundi 17h-20h \\
-Salle : 7.04 @ PLC (INALCO)
+**Horaire** : lundi 16h30 - 19h30 \\
+**Salle** : 7.04 @ PLC (INALCO) \\
+**Important** : le **29/09**, le cours aura lieu de **14h30 à 17h30** ! \\
 
 #### Syllabus
 - **Cours 1** : [Introduction à l'algorithmique et la programmation]({{ site.baseurl }}/assets/cours/C1_introduction.pdf) (lundi 15/09)
   - *Types de variables, attribution de valeur à une variable, print, input, output...*
   - **TP1** : [déclaration de variables, opérations]({{ site.baseurl }}/assets/cours/TP1.pdf)
-
+- **Cours 2** : [Opérateurs et structures conditionnelles]({{ site.baseurl }}/assets/cours/C2_operations.pdf) (lundi 22/09)
+  - *Opérateurs logiques, mathématiques, if-else...*
+  - **TP2** : [opérateurs]({{ site.baseurl}}/assets/cours/TP2.pdf)
 
 #### Ressources
 
