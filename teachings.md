@@ -21,6 +21,7 @@ permalink: /teachings/
 - **Cours 2** : [Opérateurs et structures conditionnelles]({{ site.baseurl }}/assets/cours/C2_operations.pdf) (lundi 22/09)
   - *Opérateurs logiques, mathématiques, if-else...*
   - **TP2** : [opérateurs]({{ site.baseurl}}/assets/cours/TP2.pdf)
+  - [Correction du TP2]({{ site.baseurl }}/assets/cours/tp2.py)
 - **Cours 3** : [Chaînes de caractères]({{ site.baseurl }}/assets/cours/C3_strings.pdf) (lundi 28/09)
   - *strings*, *f-strings*, méthodes, écritures scientifiques...
   - **TP3** : [chaînes de caractères]({{ site.baseurl }}/assets/cours/TP3.pdf)
