@@ -17,9 +17,13 @@ permalink: /teachings/
 - **Cours 1** : [Introduction à l'algorithmique et la programmation]({{ site.baseurl }}/assets/cours/C1_introduction.pdf) (lundi 15/09)
   - *Types de variables, attribution de valeur à une variable, print, input, output...*
   - **TP1** : [déclaration de variables, opérations]({{ site.baseurl }}/assets/cours/TP1.pdf)
+  - [Correction du TP1]({{ site.baseurl }}/assets/cours/tp1.py)
 - **Cours 2** : [Opérateurs et structures conditionnelles]({{ site.baseurl }}/assets/cours/C2_operations.pdf) (lundi 22/09)
   - *Opérateurs logiques, mathématiques, if-else...*
   - **TP2** : [opérateurs]({{ site.baseurl}}/assets/cours/TP2.pdf)
+- **Cours 3** : [Chaînes de caractères]({{ site.baseurl }}/assets/cours/C3_strings.pdf) (lundi 28/09)
+  - *strings*, *f-strings*, méthodes, écritures scientifiques...
+  - **TP3** : [chaînes de caractères]({{ site.baseurl }}/assets/cours/TP3.pdf)
 
 #### Ressources
 
