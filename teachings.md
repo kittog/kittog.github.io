@@ -25,7 +25,7 @@ permalink: /teachings/
 - **Cours 3** : [Chaînes de caractères]({{ site.baseurl }}/assets/cours/C3_strings.pdf) (lundi 28/09)
   - *strings*, *f-strings*, méthodes, écritures scientifiques...
   - **TP3** : [chaînes de caractères]({{ site.baseurl }}/assets/cours/TP3.pdf)
-  - Correction du TP3 (*à venir*)
+  - [Correction du TP3]({{ site.baseurl }}/assets/cours/tp3.py)
 - **Cours 4** : [Boucles]({{ site.baseurl }}/assets/cours/C4_while.pdf) (while) (lundi 6/10)
   - boucle while, itération, opérateurs d'incrémentation...
   - **TP4** : [boucle while]({{ site.baseurl }}/assets/cours/TP4.pdf)
