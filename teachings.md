@@ -11,7 +11,7 @@ permalink: /teachings/
 **Informations générales :** \\
 **Horaire** : lundi 16h30 - 19h30 \\
 **Salle** : 7.04 @ PLC (INALCO) \\
-**Important** : le **29/09**, le cours aura lieu de **14h30 à 17h30** !
+**Partiel de mi-semestre** : lundi 20/10 @ 16h30 (durée ~ 1h30)
 
 #### Syllabus
 - **Cours 1** : [Introduction à l'algorithmique et la programmation]({{ site.baseurl }}/assets/cours/C1_introduction.pdf) (lundi 15/09)
@@ -30,6 +30,15 @@ permalink: /teachings/
   - boucle while, itération, opérateurs d'incrémentation...
   - **TP4** : [boucle while]({{ site.baseurl }}/assets/cours/TP4.pdf)
   - Correction du TP4 (*à venir*)
+- **Cours 5** : révisions cours 1 à 4 (des variables aux boucles `while`...) (lundi 13/10)
+  - **TP5** : [des variables aux boucles while]({{ site.baseurl }}/assets/cours/TP5.pdf)
+- **Partiel mi-semestre** : lundi 20/10 à 16h30
+  - durée : 1h30 (+ tiers-temps)
+  - résumé : contenu des cours 1 à 4, TP 1 à 4 (+ TP5 jusqu'aux exercices de déboggage)
+  - programme : variables (type, conversion), opérations mathématiques, logiques, incrémentation ; structures conditionnelles, if-elif-else ; opérations sur les chaînes de caractères, indexation ; boucles while
+
+#### À venir
+- Activité introduction aux boucles for et aux listes (pour la Toussaint)
 
 #### Ressources
 
