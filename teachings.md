@@ -29,9 +29,10 @@ permalink: /teachings/
 - **Cours 4** : [Boucles]({{ site.baseurl }}/assets/cours/C4_while.pdf) (while) (lundi 6/10)
   - boucle while, itération, opérateurs d'incrémentation...
   - **TP4** : [boucle while]({{ site.baseurl }}/assets/cours/TP4.pdf)
-  - Correction du TP4 (*à venir*)
+  - [Correction du TP4]({{ site.baseurl }}/assets/cours/tp4.py)
 - **Cours 5** : révisions cours 1 à 4 (des variables aux boucles `while`...) (lundi 13/10)
   - **TP5** : [des variables aux boucles while]({{ site.baseurl }}/assets/cours/TP5.pdf)
+  - [Correction partielle du TP5]({{ site.baseurl }}/assets/cours/TP5_correction.pdf)
 - **Partiel mi-semestre** : lundi 20/10 à 16h30
   - durée : 1h30 (+ tiers-temps)
   - résumé : contenu des cours 1 à 4, TP 1 à 4 (+ TP5 jusqu'aux exercices de déboggage)
