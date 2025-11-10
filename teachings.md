@@ -41,8 +41,8 @@ permalink: /teachings/
   - programme : variables (type, conversion), opérations mathématiques, logiques, incrémentation ; structures conditionnelles, if-elif-else ; opérations sur les chaînes de caractères, indexation ; boucles while
   - [Sujet A]( {{ site.baseurl}}/assets/cours/partiel_A.pdf), [sujet B]({{ site.baseurl }}/assets/cours/partiel_B.pdf)
 - **Cours 6** : boucles for, break (lundi 10/11)
-  - révisions boucles while, boucles for, `range()`, indexation, `break`...
-  - **TP6** : [introduction]({{ site.baseurl }}/assets/cours/TP6_intro.ipynb)
+  - révisions boucles while, boucles for, `range()`, indexation...
+  - **TP6** : [introduction]({{ site.baseurl }}/assets/cours/TP6_intro.ipynb), [exercices]({{ site.baseurl }}/assets/cours/TP6.pdf)
 
 #### À venir
 - **Cours 7** : listes
