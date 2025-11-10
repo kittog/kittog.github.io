@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: kit's codes
+title: Léna Gaubert
 author: Léna Gaubert
 description: Codes, and notes and more.
 baseurl: "/kittog.github.io" # the subpath of your site, e.g. /blog
