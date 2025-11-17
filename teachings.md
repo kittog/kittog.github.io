@@ -43,8 +43,8 @@ permalink: /teachings/
 - **Cours 6** : [boucles for]({{ site.baseurl }}/assets/cours/C6_loops.pdf) (lundi 10/11)
   - révisions boucles while, boucles for, `range()`, indexation...
   - **TP6** : [introduction]({{ site.baseurl }}/assets/cours/TP6_intro.ipynb), ([HTML]({{ site.baseurl }}/assets/cours/TP6_intro.html)) [exercices]({{ site.baseurl }}/assets/cours/TP6.pdf)
-- **Cours 7**: [listes]({{ site.baseurl }}/assets/cours/C7_loops) et itérations
-  - **TP7** : [listes et itérations]({{ site.baseurl }})/assets/cours/TP7.pdf)
+- **Cours 7**: [listes]({{ site.baseurl }}/assets/cours/C7_loops.pdf) et itérations
+  - **TP7** : [listes et itérations]({{ site.baseurl }}/assets/cours/TP7.pdf)
 
 #### À venir
 - **Cours 8** : dictionnaires
