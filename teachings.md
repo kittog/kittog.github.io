@@ -40,12 +40,13 @@ permalink: /teachings/
   - résumé : contenu des cours 1 à 4, TP 1 à 4 (+ TP5 jusqu'aux exercices de déboggage)
   - programme : variables (type, conversion), opérations mathématiques, logiques, incrémentation ; structures conditionnelles, if-elif-else ; opérations sur les chaînes de caractères, indexation ; boucles while
   - [Sujet A]( {{ site.baseurl}}/assets/cours/partiel_A.pdf), [sujet B]({{ site.baseurl }}/assets/cours/partiel_B.pdf)
-- **Cours 6** : boucles for, break (lundi 10/11)
+- **Cours 6** : [boucles for]({{ site.baseurl }}/assets/cours/C6_loops.pdf) (lundi 10/11)
   - révisions boucles while, boucles for, `range()`, indexation...
   - **TP6** : [introduction]({{ site.baseurl }}/assets/cours/TP6_intro.ipynb), ([HTML]({{ site.baseurl }}/assets/cours/TP6_intro.html)) [exercices]({{ site.baseurl }}/assets/cours/TP6.pdf)
+- **Cours 7**: [listes]({{ site.baseurl }}/assets/cours/C7_loops) et itérations
+  - **TP7** : [listes et itérations]({{ site.baseurl }})/assets/cours/TP7.pdf)
 
 #### À venir
-- **Cours 7** : listes
 - **Cours 8** : dictionnaires
 - **Cours 9** : fonctions I
 - **Cours 10** : fonctions II
