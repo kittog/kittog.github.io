@@ -13,10 +13,12 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 ## Experience
 
 ### Data Science
-- **AI Data Scientist** -- [Arlequin](https://arlq.ai) -- *April 2025 - now*
+- **AI Data Scientist** -- [Arlequin](https://arlq.ai) -- *April 2025 - present*
 	- part of the R&D team ☆ﾐ(o*･ω･)ﾉ
 
-### Mentoring and coaching
+### Mentoring and teaching
+- **Teaching** -- INALCO -- *September 2025 - present*
+	- Introduction à la programmation (L3 TAL; see [teachings]({{ site.baseurl }}/teachings))
 - **AI use-case coach** -- [Centrale Supélec](https://www.centralesupelec.fr/) -- *February - April 2025*
 	- coaching students on Agile methodologies, NLP (multimodal), helping them develop MVPs for Centrale Supélec over a 7-week-sprint, at the [Paris Digital Lab](https://paris-digital-lab.com/).
 	- bridging communication between client, professors and students. 
