@@ -12,8 +12,8 @@ permalink: /teachings/
 ### Informations générales
 **Horaire** : lundi 16h30 - 19h30 \\
 **Salle** : 7.04 @ PLC (INALCO) \\
-**Partiel de mi-semestre** : lundi 20/10 @ 16h30 (durée ~ 1h30)
-**Examen final** : lundi 15/12 @ 16h 30
+**Partiel de mi-semestre** : lundi 20/10 @ 16h30 (durée ~ 1h30) \\
+**Examen final** : lundi 8/12 @ 16h 30
 
 ### Syllabus
 - **Cours 1** : [Introduction à l'algorithmique et la programmation]({{ site.baseurl }}/assets/cours/C1_introduction.pdf) (lundi 15/09)
@@ -43,18 +43,20 @@ permalink: /teachings/
 - **Cours 6** : [boucles for]({{ site.baseurl }}/assets/cours/C6_loops.pdf) (lundi 10/11)
   - révisions boucles while, boucles for, `range()`, indexation...
   - **TP6** : [introduction]({{ site.baseurl }}/assets/cours/TP6_intro.ipynb), ([HTML]({{ site.baseurl }}/assets/cours/TP6_intro.html)) [exercices]({{ site.baseurl }}/assets/cours/TP6.pdf)
+  - [Correction du TP6]({{ site.baseurl}}/assets/cours/tp6.py)
 - **Cours 7**: [listes]({{ site.baseurl }}/assets/cours/C7_listes.pdf) et itérations
   - **TP7** : [listes et itérations]({{ site.baseurl }}/assets/cours/TP7.pdf)
+  - [Correction du TP7]({{ site.baseurl }}/assets/cours/tp7.py)
 
 #### À venir
 - **Cours 8** : dictionnaires
-- **Cours 9** : fonctions I
-- **Cours 10** : fonctions II
+- **Cours 9** : fonctions
 - **Examen final**
 
 
 ### Ressources
 
-- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
-- [Cours de Python (Paris 7)](https://python.sdv.u-paris.fr/)
-- [Codewars](https://codewars.com/)
+- [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) (quelques conventions de d'écriture à respecter en Python)
+- [Cours de Python (Paris 7)](https://python.sdv.u-paris.fr/) (très bon cours d'introduction à Python de Paris Diderot)
+- [Codewars](https://codewars.com/) (idéal pour pratiquer n'importe quel langage de programmation et l'algorithmique !)
+
