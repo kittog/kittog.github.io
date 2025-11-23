@@ -6,9 +6,9 @@ permalink: /about/
 
 ### Hello! (⊃｡•́‿•̀｡)⊃
 
-My name is **Léna** (she/her), I am a graduate in **Natural Language Processing** from [Sorbonne Nouvelle](https://plurital.org/) (Paris 3). I have just submitted (and defended!) my master's thesis about a *RAG chatbot* I developed for the AEC studies office [INEX](https://www.inex.fr/). This year, I've worked freelance as an **AI & NLP mentor**, for [Wild Code School](https://www.wildcodeschool.com/), and [Centrale Supélec](https://www.centralesupelec.fr/), helping professionals and engineering students boost their skills and knowledge. As of April, I've joined [Arlequin](https://arlq.ai)'s wonderful team as a full-time AI Data Scientist where I get to bridge the gap between research and real-world applications. For more info on my experiences, check out my [cv](https://kittog.github.io/cv)!
+My name is **Léna** (she/her), I am a **Data Scientist** at **Arlequin**, a start-up based in **Paris, France**. Earlier this year, I (*finally*) graduated from [Sorbonne Nouvelle](https://plurital.org/) (Paris 3) from my master's degree in **Natural Language Processing**, as I defended my master's thesis about a *RAG chatbot* developed for the AEC studies office [INEX](https://www.inex.fr/). This year, I've worked freelance as an **AI & NLP mentor**, for [Wild Code School](https://www.wildcodeschool.com/), and [Centrale Supélec](https://www.centralesupelec.fr/), helping professionals and engineering students boost their skills and knowledge. For more info on my experiences, check out my [cv](https://kittog.github.io/cv)!
 
-I created this blog so that I could compile the resources I've come across throughout my master's degree, both for **speech** and **text processing**. I also needed a space to put out some **tutorials** I worked on last year ; hopefully these will help! (๑•﹏•)⋆* ⁑⋆*
+I created this blog so that I could compile the resources I've come across throughout my master's degree, both for **speech** and **text processing**, as well as my own personal **thoughts** on the field. I also needed a space to put out some **tutorials** I worked on last year ; hopefully these will help! (๑•﹏•)⋆* ⁑⋆*
 
 ### Contact me (∩｡･ｏ･｡)っ.ﾟ☆｡’`
 
