@@ -16,7 +16,7 @@ permalink: /teachings/
 **Examen final** : lundi 8/12 @ 16h 30  (durée ~ 2h)
 
 
-### Séances
+### 🗓️ Séances
 ---
 
 #### 15/09 : Introduction à l'algorithmique et la programmation
@@ -62,8 +62,8 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 
 
 #### 24/11 : Fonctions I
-- Cours 8 : *fonctions (principes théoriques et syntaxe Python), bonnes pratiques de code, revue des conventions d'écrture en Python*
-- TP8 : mise en pratique
+- [Cours 8]({{ site.baseurl }}/assets/cours/C8_fonctions.pdf) : *fonctions (principes théoriques et syntaxe Python), bonnes pratiques de code, revue des conventions d'écrture en Python*
+- **TP8** : [mise en pratique]({{ site.baseurl }}/assets/cours/TP8.pdf)
 
 #### 1/12 : Fonctions II et dictionnaires
 - Cours 9 : dictionnaires
