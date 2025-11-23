@@ -26,7 +26,7 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 	- mentoring professionals on no-code Generative AI tools and prompt engineering, as well as AI app development with LangChain.
 	- delivering both collective and individual mentoring sessions.
 
-### Internships (lab & industry)
+### Internships
 - **Head of project in NLP & AI** -- [INEX](https://www.inex.fr/) -- *April - September 2024*
 	- In charge of the development of a *domain-specific RAG chatbot* (legal & AEC).
 	- Data collection, preparation, RAG implementation ("from scratch"), prompt engineering with Mistral-7x8b-Instruct, LLM inference optimisation (quantization, frameworks like llama-cpp...). 
@@ -50,15 +50,3 @@ Graduate in NLP with both mentoring and hands-on technical experiences. Ex-funda
 	- computational physics
 	- electrokinetics, electromagnetism, waves
 	- quantum physics & mechanics
-
----
-
-## Skills
-
-- **Programming**: Python, R, SQL, Bash
-- **NLP Tools & Techniques**: 
-	- **natural language processing**: NLTK, spaCy, LangChain (AI application development), llama-cpp (LLM inference), static and contextual embeddings (TF-IDF, BERT, etc.), prompt engineering, text classification, entity recognition, and semantic search.
-	- **speech-processing**: praat, parselmouth, librosa, openSMILE (automatic measure extraction), Montreal Forced Aligner & WebMaus MINNI, wav2vec, Whisper
-- **Workflow**: Agile, Research Methodology
-- **Soft-skills**: Pedagogy, organisation, communication
-- **Other**: Technical writing
