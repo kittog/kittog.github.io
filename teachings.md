@@ -64,9 +64,11 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 #### 24/11 : Fonctions I
 - [Cours 8]({{ site.baseurl }}/assets/cours/C8_fonctions.pdf) : *fonctions (principes théoriques et syntaxe Python), bonnes pratiques de code, revue des conventions d'écrture en Python*
 - **TP8** : [mise en pratique]({{ site.baseurl }}/assets/cours/TP8.pdf)
+- [Correction du TP8]({{ site.baseurl }}/assets/cours/TP8.py)
 
 #### 1/12 : Fonctions II et dictionnaires
 - [Cours 9]({{ site.baseurl }}/assets/cours/C9_dictionnaire.pdf) : dictionnaires
+- [Cours 10]({{ site.baseurl }}/assets/cours/C10_fonctions_II.pdf) : fonctions II (documentation)
 - TP9 : [fonctions et dictionnaires]({{ site.baseurl }}/assets/cours/TP9.pdf) !
 
 
@@ -81,4 +83,6 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) (quelques conventions de d'écriture à respecter en Python)
 - [Cours de Python (Paris 7)](https://python.sdv.u-paris.fr/) (très bon cours d'introduction à Python de Paris Diderot)
 - [Codewars](https://codewars.com/) (idéal pour pratiquer n'importe quel langage de programmation et l'algorithmique !)
+- [Advent of Code](https://adventofcode.com) (un calendrier de l'avent du code... pour pratique la programmation dans une ambiance plus festive ! Les puzzles vous seront plus accessibles d'ici un semestre ou plus de pratique...)
+- [Animation vs. Coding](https://www.youtube.com/watch?v=EFmxPMdBqmU) de Alan Becker (une animation très claire sur la manipulation de variables en Python !)
 
