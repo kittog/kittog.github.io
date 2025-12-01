@@ -66,11 +66,11 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 - **TP8** : [mise en pratique]({{ site.baseurl }}/assets/cours/TP8.pdf)
 
 #### 1/12 : Fonctions II et dictionnaires
-- Cours 9 : dictionnaires
-- TP9 : révisions des cours 1 à 8, et quelques exercices sur les dictionnaires
+- [Cours 9]({{ site.baseurl }}/assets/cours/C9_dictionnaire.pdf) : dictionnaires
+- TP9 : [fonctions et dictionnaires]({{ site.baseurl }}/assets/cours/TP9.pdf) !
 
 
-#### 8/12 : 💥 Examen final 💥
+#### 8/12 : 🎉 Examen final 🎉
 - **durée** : ~ 2h
 - **programme** : tout jusqu'au cours 8 !
 - **type d'exercices** : questions conceptuelles, compréhension/explication de code, code sur papier...
