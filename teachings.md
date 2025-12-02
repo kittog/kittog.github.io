@@ -64,7 +64,7 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 #### 24/11 : Fonctions I
 - [Cours 8]({{ site.baseurl }}/assets/cours/C8_fonctions.pdf) : *fonctions (principes théoriques et syntaxe Python), bonnes pratiques de code, revue des conventions d'écrture en Python*
 - **TP8** : [mise en pratique]({{ site.baseurl }}/assets/cours/TP8.pdf)
-- [Correction du TP8]({{ site.baseurl }}/assets/cours/TP8.py)
+- [Correction du TP8]({{ site.baseurl }}/assets/cours/tp8.py)
 
 #### 1/12 : Fonctions II et dictionnaires
 - [Cours 9]({{ site.baseurl }}/assets/cours/C9_dictionnaire.pdf) : dictionnaires
