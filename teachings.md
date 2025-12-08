@@ -73,9 +73,10 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 
 
 #### 8/12 : 🎉 Examen final 🎉
-- **durée** : ~ 2h
+- **durée** : 1h45
 - **programme** : tout jusqu'au cours 8 !
 - **type d'exercices** : questions conceptuelles, compréhension/explication de code, code sur papier...
+- [Sujet unique]({{ site.baseurl }}/assets/cours/exam_intro_prog.pdf)
 
 
 ### Ressources
