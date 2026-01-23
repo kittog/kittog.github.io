@@ -64,22 +64,31 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 #### 24/11 : Fonctions I
 - [Cours 8]({{ site.baseurl }}/assets/cours/C8_fonctions.pdf) : *fonctions (principes théoriques et syntaxe Python), bonnes pratiques de code, revue des conventions d'écrture en Python*
 - **TP8** : [mise en pratique]({{ site.baseurl }}/assets/cours/TP8.pdf)
+- [Correction du TP8]({{ site.baseurl }}/assets/cours/tp8.py)
 
 #### 1/12 : Fonctions II et dictionnaires
-- Cours 9 : dictionnaires
-- TP9 : révisions des cours 1 à 8, et quelques exercices sur les dictionnaires
+- [Cours 9]({{ site.baseurl }}/assets/cours/C9_dictionnaire.pdf) : dictionnaires
+- [Cours 10]({{ site.baseurl }}/assets/cours/C10_fonctions_II.pdf) : fonctions II (documentation)
+- TP9 : [fonctions et dictionnaires]({{ site.baseurl }}/assets/cours/TP9.pdf) !
 
 
-#### 8/12 : 💥 Examen final 💥
-- **durée** : ~ 2h
+#### 8/12 : 🎉 Examen final 🎉
+- **durée** : 1h45
 - **programme** : tout jusqu'au cours 8 !
 - **type d'exercices** : questions conceptuelles, compréhension/explication de code, code sur papier...
+<<<<<<< HEAD
 - [Correction de l'examen finale]({{ site.baseurl }}/assets/cours/exam.html) (Notebook exporté en HTML)
 - [Correction partiel en Perl]({{ site.baseurl }}/assets/cours/lena-1.pdf) : quelques bouts de code écrits en Perl par mon grand-oncle quand je lui ai partagé le sujet de l'examen... je l'ai ajouté à titre illustratif pour que vous puissiez voir à quoi ressemble d'autres langages ! (Bien que le Perl soit de moins en moins utilisé aujourd'hui)
+=======
+- [Sujet unique]({{ site.baseurl }}/assets/cours/exam_intro_prog.pdf)
+
+>>>>>>> 4859e5212ea540adb8fc125efd1ac4b6a1b921e3
 
 ### Ressources
 
 - [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) (quelques conventions de d'écriture à respecter en Python)
 - [Cours de Python (Paris 7)](https://python.sdv.u-paris.fr/) (très bon cours d'introduction à Python de Paris Diderot)
 - [Codewars](https://codewars.com/) (idéal pour pratiquer n'importe quel langage de programmation et l'algorithmique !)
+- [Advent of Code](https://adventofcode.com) (un calendrier de l'avent du code... pour pratique la programmation dans une ambiance plus festive ! Les puzzles vous seront plus accessibles d'ici un semestre ou plus de pratique...)
+- [Animation vs. Coding](https://www.youtube.com/watch?v=EFmxPMdBqmU) de Alan Becker (une animation très claire sur la manipulation de variables en Python !)
 
