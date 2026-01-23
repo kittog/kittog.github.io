@@ -76,13 +76,9 @@ Séance de révisions des cours 1 à 4 (des variables aux boucles `while`...) en
 - **durée** : 1h45
 - **programme** : tout jusqu'au cours 8 !
 - **type d'exercices** : questions conceptuelles, compréhension/explication de code, code sur papier...
-<<<<<<< HEAD
+- [Sujet unique]({{ site.baseurl }}/assets/cours/exam_intro_prog.pdf)
 - [Correction de l'examen finale]({{ site.baseurl }}/assets/cours/exam.html) (Notebook exporté en HTML)
 - [Correction partiel en Perl]({{ site.baseurl }}/assets/cours/lena-1.pdf) : quelques bouts de code écrits en Perl par mon grand-oncle quand je lui ai partagé le sujet de l'examen... je l'ai ajouté à titre illustratif pour que vous puissiez voir à quoi ressemble d'autres langages ! (Bien que le Perl soit de moins en moins utilisé aujourd'hui)
-=======
-- [Sujet unique]({{ site.baseurl }}/assets/cours/exam_intro_prog.pdf)
-
->>>>>>> 4859e5212ea540adb8fc125efd1ac4b6a1b921e3
 
 ### Ressources
 
