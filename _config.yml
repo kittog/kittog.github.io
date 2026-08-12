@@ -20,7 +20,11 @@
 
 title: Léna Gaubert
 author: Léna Gaubert
+email: lena.gaubert@proton.me
+profile_position: Data Scientist
+profile_institution: Arlequin AI
 description: Codes, and notes and more.
+profile_image: /assets/
 baseurl: "/kittog.github.io" # the subpath of your site, e.g. /blog
 url: "https://kittog.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 lang: en
@@ -72,5 +76,5 @@ jekyll-archives:
     tag: /tags/:name/
 
 # jekyll-paginate
-paginate_path: /posts/:num/
+paginate_path: /blog/page/:num/
 paginate: 5
