@@ -7,8 +7,6 @@ main:
     url: /blog/
   - title: "Teachings"
     url: /teachings/
-  - title: "About"
-    url: /about/
   - title: "CV"
     url: /cv/
   - title: "Archive"
