@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Research"
+title: "Papers & Talks"
 permalink: /research/ 
 ---
 
 
-### Pre-prints
+### Papers
 
-Gaubert, L., Devaux, R., Çelen, E., Marjieh, R., Mangalagiu, D., Jardin, A., & Jacoby, N. (2026). An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies. arXiv preprint [arXiv:2605.09197](https://arxiv.org/abs/2605.09197).
+Gaubert, L., Devaux, R., Çelen, E., Marjieh, R., Mangalagiu, D., Jardin, A., & Jacoby, N. (2026). An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies. Proceedings of the Annual Meeting of the Cognitive Science Society, 48. Retrieved from [https://escholarship.org/uc/item/8r57w20x](https://escholarship.org/uc/item/8r57w20x)
 
-### Invited talks
+### Talks
 
-Gaubert, L., Devaux, R., Çelen, E., Marjieh, R., Mangalagiu, D., Jardin, A., & Jacoby, N. (2026). An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies. Annual Conference of the Cognitive Science Society (CogSci 2026, Rio, Brazil). Upcoming (accepted).
+Gaubert, L., Devaux, R., Çelen, E., Marjieh, R., Mangalagiu, D., Jardin, A., & Jacoby, N. (2026). An Experimental Method to Study Opinion Diffusion in Human-AI Hybrid Societies. 48th Annual Conference of the Cognitive Science Society (CogSci 2026). 9.3% acceptance rate. July 2026. 💻 [slides]({{ site.baseurl }}/assets/cogsci26talk.pdf)
